@@ -4,27 +4,20 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-10-18 11:51:31.273330</lastBuildDate>
+<lastBuildDate>2025-10-19 11:51:32.245084</lastBuildDate>
 <item>
 <title>Release update for **jeffg__g**</title>
-<guid>release-2025-10-18_11:48:17.066516-jeffg__g</guid>
+<guid>release-2025-10-19_11:48:27.189892-jeffg__g</guid>
 <link>N/A</link>
-<description>https://hotelpoolsmusic.bandcamp.com/album/nothing</description>
-<pubDate>2025-10-18 11:48:17.066516</pubDate>
-</item>
-<item>
-<title>Wishlist update for **bsg__**</title>
-<guid>wishlist-2025-10-18_11:51:31.016471-bsg__</guid>
-<link>N/A</link>
-<description>https://omasta.bandcamp.com/album/jazz-report-from-the-hood</description>
-<pubDate>2025-10-18 11:51:31.016471</pubDate>
+<description>https://yemmy.bandcamp.com/track/animal</description>
+<pubDate>2025-10-19 11:48:27.189892</pubDate>
 </item>
 <item>
 <title>Release update for **bsg__**</title>
-<guid>release-2025-10-18_11:51:31.016722-bsg__</guid>
+<guid>release-2025-10-19_11:51:31.976015-bsg__</guid>
 <link>N/A</link>
-<description>https://arewenothomefront.bandcamp.com/album/street-city-kids-in-a-new-dark-age</description>
-<pubDate>2025-10-18 11:51:31.016722</pubDate>
+<description>https://yemmy.bandcamp.com/track/animal</description>
+<pubDate>2025-10-19 11:51:31.976015</pubDate>
 </item>
 
 </channel>
