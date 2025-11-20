@@ -4,20 +4,34 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-11-19 11:51:50.221459</lastBuildDate>
+<lastBuildDate>2025-11-20 11:51:46.130934</lastBuildDate>
 <item>
 <title>Following update for **jeffg__g**</title>
-<guid>following-2025-11-19_11:48:25.556016-jeffg__g</guid>
+<guid>following-2025-11-20_11:48:43.635953-jeffg__g</guid>
 <link>N/A</link>
-<description>https://henriklindstrand.bandcamp.com/music</description>
-<pubDate>2025-11-19 11:48:25.556016</pubDate>
+<description>https://hyperborea32x.bandcamp.com/music https://boardsofcanada.bandcamp.com/music</description>
+<pubDate>2025-11-20 11:48:43.635953</pubDate>
 </item>
 <item>
 <title>Wishlist update for **jeffg__g**</title>
-<guid>wishlist-2025-11-19_11:48:25.556156-jeffg__g</guid>
+<guid>wishlist-2025-11-20_11:48:43.636080-jeffg__g</guid>
 <link>N/A</link>
-<description>https://henriklindstrand.bandcamp.com/album/space-between-extended-version</description>
-<pubDate>2025-11-19 11:48:25.556156</pubDate>
+<description>https://hyperborea32x.bandcamp.com/album/subway-archives https://davz.bandcamp.com/track/riptide https://tineidae.bandcamp.com/track/blue-dawn https://trevorsomething.bandcamp.com/album/the-anima https://sapphyre.bandcamp.com/track/sapphyre-remix https://boardsofcanada.bandcamp.com/album/tomorrows-harvest https://boardsofcanada.bandcamp.com/album/the-campfire-headphase</description>
+<pubDate>2025-11-20 11:48:43.636080</pubDate>
+</item>
+<item>
+<title>Release update for **jeffg__g**</title>
+<guid>release-2025-11-20_11:48:43.636494-jeffg__g</guid>
+<link>N/A</link>
+<description>https://cynthoni.bandcamp.com/album/lifeless-misery-ep</description>
+<pubDate>2025-11-20 11:48:43.636494</pubDate>
+</item>
+<item>
+<title>Release update for **bsg__**</title>
+<guid>release-2025-11-20_11:51:45.885040-bsg__</guid>
+<link>N/A</link>
+<description>https://cynthoni.bandcamp.com/album/lifeless-misery-ep</description>
+<pubDate>2025-11-20 11:51:45.885040</pubDate>
 </item>
 
 </channel>
