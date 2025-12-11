@@ -4,13 +4,20 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-12-10 11:52:41.154499</lastBuildDate>
+<lastBuildDate>2025-12-11 11:52:55.012643</lastBuildDate>
 <item>
 <title>Release update for **jeffg__g**</title>
-<guid>release-2025-12-10_11:49:32.421987-jeffg__g</guid>
+<guid>release-2025-12-11_11:49:42.398070-jeffg__g</guid>
 <link>N/A</link>
-<description>https://saulstokes.bandcamp.com/track/santa-and-the-rainy-skates</description>
-<pubDate>2025-12-10 11:49:32.421987</pubDate>
+<description>https://peterbroderick1.bandcamp.com/album/arthurs-opinion?label=3219881500&tab=music</description>
+<pubDate>2025-12-11 11:49:42.398070</pubDate>
+</item>
+<item>
+<title>Release update for **bsg__**</title>
+<guid>release-2025-12-11_11:52:54.686265-bsg__</guid>
+<link>N/A</link>
+<description>https://happychichester.bandcamp.com/album/free-dr-suesss-youre-a-mean-one-mr-grinch</description>
+<pubDate>2025-12-11 11:52:54.686265</pubDate>
 </item>
 
 </channel>
