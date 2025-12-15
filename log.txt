@@ -581,8 +581,8 @@
 [collection_parser:bsg__]: Found 24 links...
 [collection_parser:bsg__]: Found 0 new collection items
 [collection_parser:bsg__]: Exited successfully
-[wishlist_parser:bsg__]: Found 420 links...
-[wishlist_parser:bsg__]: Found 0 new wishlist items
+[wishlist_parser:bsg__]: Found 421 links...
+[wishlist_parser:bsg__]: Found 1 new wishlist items
 [wishlist_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://tkdpll.bandcamp.com/music]
 [release_parser:bsg__]: Found 12 links...
@@ -714,6 +714,7 @@
 [release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Got 0 bytes of data. Retrying...
+[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 3 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -786,7 +787,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://thebethsnz.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 13 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -795,7 +795,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://farbik.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 7 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -808,7 +807,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://paleblueeyesmusic.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 15 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -817,7 +815,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://cathedralbellsmusic.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 15 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -826,7 +823,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://wetleg.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 5 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -835,7 +831,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://okcool.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 11 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -848,13 +843,10 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://mdoumoctar.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 18 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://theshapiros.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 1 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -867,7 +859,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://rjraffa.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 6 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -884,7 +875,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://thedrin.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 8 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -893,7 +883,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://jaguarsun.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 15 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -902,7 +891,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://persica3.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 2 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -911,7 +899,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://sandy.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 19 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -920,7 +907,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://tvpriest.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 6 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -929,7 +915,6 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://klauswiese.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 16 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -979,11 +964,11 @@
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://taqbir.bandcamp.com/music]
 [release_parser:bsg__]: Got 0 bytes of data. Retrying...
+[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 1 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://hkmori.bandcamp.com/music]
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 5 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -993,7 +978,6 @@
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://truegreen.bandcamp.com/music]
 [release_parser:bsg__]: Got 0 bytes of data. Retrying...
-[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 2 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -1002,6 +986,7 @@
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
 [release_parser:bsg__]: Pinging bandcamp release feed for user bsg__ [https://deathbrain.bandcamp.com/music]
+[release_parser:bsg__]: Got 0 bytes of data. Retrying...
 [release_parser:bsg__]: Found 16 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
@@ -1023,7 +1008,7 @@
 [release_parser:bsg__]: Found 15 links...
 [release_parser:bsg__]: Found 0 new release items
 [release_parser:bsg__]: Exited successfully
-[rss_aggregator.py:bsg__]: No updates detected for this user
-[rss_aggregator.py:bsg__]: Exited successfully
-[user_orchestrator.py]: No updates found for final.rss
+[rss_aggregator.py:unknown user...]: Created item Wishlist update for **bsg__**
+[rss_aggregator.py:bsg__]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating final.rss at 2025-12-15 11:53:22.993764
 [user_orchestrator.py]: Exited successfully
