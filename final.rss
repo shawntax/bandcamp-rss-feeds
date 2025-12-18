@@ -4,27 +4,20 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-12-16 11:53:10.912622</lastBuildDate>
+<lastBuildDate>2025-12-18 11:52:52.745701</lastBuildDate>
 <item>
-<title>Following update for **jeffg__g**</title>
-<guid>following-2025-12-16_11:49:43.679913-jeffg__g</guid>
+<title>Release update for **jeffg__g**</title>
+<guid>release-2025-12-18_11:49:37.594731-jeffg__g</guid>
 <link>N/A</link>
-<description>https://elaminus.bandcamp.com/music</description>
-<pubDate>2025-12-16 11:49:43.679913</pubDate>
+<description>https://andorgm.bandcamp.com/album/pelle-2 https://tkdpll.bandcamp.com/album/vulfar</description>
+<pubDate>2025-12-18 11:49:37.594731</pubDate>
 </item>
 <item>
-<title>Wishlist update for **jeffg__g**</title>
-<guid>wishlist-2025-12-16_11:49:43.680108-jeffg__g</guid>
+<title>Release update for **bsg__**</title>
+<guid>release-2025-12-18_11:52:52.375308-bsg__</guid>
 <link>N/A</link>
-<description>https://elaminus.bandcamp.com/album/d-a</description>
-<pubDate>2025-12-16 11:49:43.680108</pubDate>
-</item>
-<item>
-<title>Wishlist update for **bsg__**</title>
-<guid>wishlist-2025-12-16_11:53:10.600623-bsg__</guid>
-<link>N/A</link>
-<description>https://elaminus.bandcamp.com/album/d-a</description>
-<pubDate>2025-12-16 11:53:10.600623</pubDate>
+<description>https://tkdpll.bandcamp.com/album/vulfar</description>
+<pubDate>2025-12-18 11:52:52.375308</pubDate>
 </item>
 
 </channel>
