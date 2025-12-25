@@ -4,13 +4,20 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-12-24 11:52:18.886613</lastBuildDate>
+<lastBuildDate>2025-12-25 11:51:50.633350</lastBuildDate>
 <item>
-<title>Wishlist update for **bsg__**</title>
-<guid>wishlist-2025-12-24_11:52:18.641236-bsg__</guid>
+<title>Following update for **jeffg__g**</title>
+<guid>following-2025-12-25_11:48:22.214712-jeffg__g</guid>
 <link>N/A</link>
-<description>https://kankyongaku.bandcamp.com/album/kanky-ongaku-japanese-ambient-environmental-new-age-music-1980-1990</description>
-<pubDate>2025-12-24 11:52:18.641236</pubDate>
+<description>https://thomasbarrandon.bandcamp.com/music</description>
+<pubDate>2025-12-25 11:48:22.214712</pubDate>
+</item>
+<item>
+<title>Wishlist update for **jeffg__g**</title>
+<guid>wishlist-2025-12-25_11:48:22.214838-jeffg__g</guid>
+<link>N/A</link>
+<description>https://thomasbarrandon.bandcamp.com/album/remembrance</description>
+<pubDate>2025-12-25 11:48:22.214838</pubDate>
 </item>
 
 </channel>
