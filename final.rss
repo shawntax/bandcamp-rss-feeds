@@ -4,13 +4,27 @@
 <title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
 <link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
 <description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
-<lastBuildDate>2025-12-30 11:52:55.045904</lastBuildDate>
+<lastBuildDate>2025-12-31 11:52:06.765409</lastBuildDate>
 <item>
 <title>Following update for **jeffg__g**</title>
-<guid>following-2025-12-30_11:49:41.818325-jeffg__g</guid>
+<guid>following-2025-12-31_11:48:51.243754-jeffg__g</guid>
 <link>N/A</link>
-<description>https://philipglass.bandcamp.com/music</description>
-<pubDate>2025-12-30 11:49:41.818325</pubDate>
+<description>https://after95.bandcamp.com/music</description>
+<pubDate>2025-12-31 11:48:51.243754</pubDate>
+</item>
+<item>
+<title>Wishlist update for **jeffg__g**</title>
+<guid>wishlist-2025-12-31_11:48:51.243874-jeffg__g</guid>
+<link>N/A</link>
+<description>https://after95.bandcamp.com/album/after-ep-2</description>
+<pubDate>2025-12-31 11:48:51.243874</pubDate>
+</item>
+<item>
+<title>Release update for **jeffg__g**</title>
+<guid>release-2025-12-31_11:48:51.244301-jeffg__g</guid>
+<link>N/A</link>
+<description>https://mitchmurder.bandcamp.com/album/inertia</description>
+<pubDate>2025-12-31 11:48:51.244301</pubDate>
 </item>
 
 </channel>
