@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>Kero Kero MonitoRSS - Bandcamp Mass Aggregator</title>
-<link>https://github.com/JeffreyGaydos/bandcamp-rss-feeds</link>
-<description>Essentially sends what you would normally get from bandcamp in an email, but as a discord notification instead, aggregated daily for multiple users.</description>
+<title>Bandcamp RSS fer da bois</title>
+<link>https://github.com/shawntax/bandcamp-rss-feeds</link>
+<description>Aggregate bandcamp updates</description>
 <lastBuildDate>2026-01-04 11:51:55.842021</lastBuildDate>
-<item>
-<title>Collection update for **jeffg__g**</title>
-<guid>collection-2026-01-04_11:48:42.741611-jeffg__g</guid>
-<link>N/A</link>
-<description>https://after95.bandcamp.com/album/after-ep-2</description>
-<pubDate>2026-01-04 11:48:42.741611</pubDate>
-</item>
-
 </channel>
 </rss>
